@@ -234,7 +234,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="footer__word" aria-hidden="true">
-          DIAMORA
+          SVKdiamonds
         </div>
       </footer>
 
